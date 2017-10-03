@@ -1,4 +1,4 @@
-# Serious Templates
+# Serious Libraries
 This repository provides KiCAD libraries developed by employees of the [seriöse Gesellschaft ](https://serioese.gmbh).
 
 ## rfid\_nfc.lib
