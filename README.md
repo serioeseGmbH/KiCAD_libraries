@@ -36,6 +36,11 @@ Components in this library are grouped by function, rather than filenames. This 
   - NCP692MN 1 A, Low IGND, Very Low Dropout Regulator (VLDO) with/without Enable [**ON\_Semi\_LDO.lib**] ([Datasheet](http://www.onsemi.com/pub/Collateral/NCP690-D.PDF))
 
 
+### Flash Chips
+
+  - SST26WF080B 1.8V 4 Mbit and 8 Mbit Serial Quad I/O (SQI) Flash Memory [**microchip.lib**] ([Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005283B.pdf))
+
+
 ## License
 
 See [LICENSE](LICENSE) for more information on licensing.
